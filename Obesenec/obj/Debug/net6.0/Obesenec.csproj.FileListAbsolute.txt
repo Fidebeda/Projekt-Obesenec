@@ -1,0 +1,15 @@
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\bin\Debug\net6.0\Obesenec.exe
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\bin\Debug\net6.0\Obesenec.deps.json
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\bin\Debug\net6.0\Obesenec.runtimeconfig.json
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\bin\Debug\net6.0\Obesenec.dll
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\bin\Debug\net6.0\Obesenec.pdb
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\obj\Debug\net6.0\Obesenec.csproj.AssemblyReference.cache
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\obj\Debug\net6.0\Obesenec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\obj\Debug\net6.0\Obesenec.AssemblyInfoInputs.cache
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\obj\Debug\net6.0\Obesenec.AssemblyInfo.cs
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\obj\Debug\net6.0\Obesenec.csproj.CoreCompileInputs.cache
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\obj\Debug\net6.0\Obesenec.dll
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\obj\Debug\net6.0\refint\Obesenec.dll
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\obj\Debug\net6.0\Obesenec.pdb
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\obj\Debug\net6.0\Obesenec.genruntimeconfig.cache
+C:\Users\fideb\Dropbox\ITNETWORK\OOP-C#\Obesenec\Obesenec\obj\Debug\net6.0\ref\Obesenec.dll
